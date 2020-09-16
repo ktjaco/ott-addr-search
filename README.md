@@ -2,7 +2,7 @@
 
 Testing out `pg_featureserv` and `pg_tileserv` using City of Ottawa Open Data - Municipal Addresses.
 
-export DATABASE_URL="host=localhost user=postgres password=password"
+`export DATABASE_URL="host=localhost user=postgres password=password"`
 
 ## Setup
 
