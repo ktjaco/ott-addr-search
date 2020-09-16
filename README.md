@@ -95,3 +95,5 @@ PARALLEL SAFE
 STABLE
 STRICT;
 ```
+## Acknowledgements
+* [Geocoding and Text Search in PostGIS presented by Paul Ramsey at STL PostGIS Day 2019](https://www.youtube.com/watch?v=7RumQ9oXA9Q)
